@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="C:/Users/HoangThiLanAnh/Downloads/ChuKiSo/CAAppletSimple.jar"/>
+	<classpathentry kind="lib" path="C:/Users/HoangThiLanAnh/Downloads/ChuKiSo/lib/bcpkix-jdk15on-1.48.jar"/>
+	<classpathentry kind="lib" path="C:/Users/HoangThiLanAnh/Downloads/ChuKiSo/lib/bcprov-jdk15on-1.48.jar"/>
+	<classpathentry kind="lib" path="C:/Users/HoangThiLanAnh/Downloads/ChuKiSo/lib/bctsp-jdk15-1.43.jar"/>
+	<classpathentry kind="lib" path="C:/Users/HoangThiLanAnh/Downloads/ChuKiSo/lib/CAAppletSimple.jar"/>
+	<classpathentry kind="lib" path="C:/Users/HoangThiLanAnh/Downloads/ChuKiSo/lib/commons-codec-1.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/HoangThiLanAnh/Downloads/ChuKiSo/lib/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/HoangThiLanAnh/Downloads/ChuKiSo/lib/commons-lang3-3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/HoangThiLanAnh/Downloads/ChuKiSo/lib/commons-logging-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/HoangThiLanAnh/Downloads/ChuKiSo/lib/commons-net-3.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/HoangThiLanAnh/Downloads/ChuKiSo/lib/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/HoangThiLanAnh/Downloads/ChuKiSo/lib/fontbox-1.8.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/HoangThiLanAnh/Downloads/ChuKiSo/lib/itext-2.1.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/HoangThiLanAnh/Downloads/ChuKiSo/lib/itextpdf-5.4.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/HoangThiLanAnh/Downloads/ChuKiSo/lib/jacob-1.14.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/HoangThiLanAnh/Downloads/ChuKiSo/lib/jaxen-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/HoangThiLanAnh/Downloads/ChuKiSo/lib/log4j-1.2.13.jar"/>
+	<classpathentry kind="lib" path="C:/Users/HoangThiLanAnh/Downloads/ChuKiSo/lib/pdfbox-1.8.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/HoangThiLanAnh/Downloads/ChuKiSo/lib/xalan-2.7.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/HoangThiLanAnh/Downloads/ChuKiSo/lib/xmlsec-1.5.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/HoangThiLanAnh/Downloads/ChuKiSo/lib/org-apache-commons-codec.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/com.liferay.ide.eclipse.server.tomcat.runtimeClasspathProvider/Liferay v6.1 CE (Tomcat 7)"/>
+	<classpathentry kind="lib" path="C:/Users/HoangThiLanAnh/Downloads/ChuKiSo/lib/commons-codec-1.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
